@@ -2,6 +2,7 @@
 <h3 align="center">Passionate About Coding and Eager to Learn</h3>
 
 <p align="center" > <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" style="width: 10000px;" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saha-souvik&label=Profile%20views&color=0e75b6&style=flat" alt="saha-souvik" /> </p>
 
 - 🌱 I’m currently enhancing my skills in **Mern Stack**
 
